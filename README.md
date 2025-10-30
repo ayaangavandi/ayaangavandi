@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there, I'm Ayaan Gavandi 👋
 
-<!--
-**ayaangavandi/ayaangavandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 About Me
+🚀 Passionate Data Analyst with expertise in transforming raw data into actionable insights using Python, SQL, Power BI, Tableau, and Excel.
+📊 Experienced in managing projects, automating reports, and building data dashboards that drive efficiency and decision-making.
+🌱 Currently exploring Azure, AWS, and Machine Learning to enhance my analytics workflow.
 
-Here are some ideas to get you started:
+💡 What I’m Working On
+📈 Creating Power BI dashboards and SQL-based reporting systems.
+🧠 Learning ML and predictive analytics for smarter data solutions.
+⚙️ Developing Python scripts for data cleaning and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Technical Skills
+Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, MSSQL)
+BI Tools: Power BI, Tableau, Excel (PivotTables, Dashboards)
+Project Tools: Jira, Notion, Microsoft Office, Trello
+Blockchain: Etherscan, Dune Analytics, Zapper
+Cloud: Microsoft Azure, AWS
+
+📫 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/ayaan-gavandi-a16202218/) | [Email](mailto:ayaangavandi33@gmail.com)
